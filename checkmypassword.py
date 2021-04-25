@@ -372,6 +372,7 @@ def copy_data():
     return
 
 
+
 strength_labels = Label(canvas, text="Strong", font=('MontSerrat', 12, 'bold'), background="#243142")
 # strong_label.place(relx=0.86,y=665,anchor=CENTER)
 
