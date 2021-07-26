@@ -5,17 +5,17 @@ It will check your password was hacked or not and if is it so then it will sugge
 
 Backend developers :
 
-DhairyaPatel2210 (Team leader, Confirmation of password whether hacked or not,  User credential related Password generation)
+[Dhairya Patel](https://github.com/DhairyaPatel2210) (Team leader, Confirmation of password whether hacked or not,  User credential related Password generation)
 
-DP8801(Password Strength Checking, Python to executable conversion, Documentation and video preparation)
+[Dev Pandya](https://github.com/DP8801) (Password Strength Checking, Python to executable conversion, Documentation and video preparation)
 
-smit977( Random secured password generation)
+[Smit Prajapati](https://github.com/smit977) ( Random secured password generation)
 
 Frontend developers :
 
-DGamer007 (Software GUI, Tkinter developer)
+[Dhruv Prajapati](https://github.com/DGamer007) (Software GUI, Tkinter developer)
 
-Pns00911 (Software GUI, Tkinter developer, Software Design(using Adobe XD))
+[Pruthvik Sheth](https://github.com/Pns00911) (Software GUI, Tkinter developer, Software Design(using Adobe XD))
 
 
 # Why use Password Checker?
